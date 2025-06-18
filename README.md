@@ -25,7 +25,6 @@ I'm a passionate engineer specializing in **Machine Learning** and **Software De
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-00599C?style=for-the-badge&logo=v&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### ML/AI Frameworks
@@ -107,5 +106,5 @@ class MayanSkills:
 <div align="center">
   <img src="https://komarev.com/ghpv/?username=Mayan10&style=for-the-badge&color=36BCF7" alt="Profile Views" />
   
-  **✨ "Innovation happens at the intersection of software and intelligence" ✨**
+  **✨ "The people who are crazy enough to think they can change the world are the ones who do." ✨**
 </div>
