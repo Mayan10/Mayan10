@@ -70,8 +70,8 @@ current_work = {
 ```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-00D4FF?style=for-the-badge&logo=kotlin&logoColor=000000&labelColor=000000)
-![C++](https://img.shields.io/badge/C++-FF6B9D?style=for-the-badge&logo=cplusplus&logoColor=000000&labelColor=000000)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/Java-00D4FF?style=for-the-badge&logo=openjdk&logoColor=000000&labelColor=000000)
 
 ```
@@ -80,10 +80,10 @@ current_work = {
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6B9D?style=for-the-badge&logo=tensorflow&logoColor=000000&labelColor=000000)
-![PyTorch](https://img.shields.io/badge/PyTorch-00D4FF?style=for-the-badge&logo=pytorch&logoColor=000000&labelColor=000000)
-![OpenCV](https://img.shields.io/badge/OpenCV-FF6B9D?style=for-the-badge&logo=opencv&logoColor=000000&labelColor=000000)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-00D4FF?style=for-the-badge&logo=scikit-learn&logoColor=000000&labelColor=000000)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ```
 ╔══════════════════════════════════════════════════════════╗
@@ -91,10 +91,10 @@ current_work = {
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-![Android Studio](https://img.shields.io/badge/Android_Studio-FF6B9D?style=for-the-badge&logo=android-studio&logoColor=000000&labelColor=000000)
-![VS Code](https://img.shields.io/badge/VS_Code-00D4FF?style=for-the-badge&logo=visual-studio-code&logoColor=000000&labelColor=000000)
-![Git](https://img.shields.io/badge/Git-FF6B9D?style=for-the-badge&logo=git&logoColor=000000&labelColor=000000)
-![Linux](https://img.shields.io/badge/Linux-00D4FF?style=for-the-badge&logo=linux&logoColor=000000&labelColor=000000)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
