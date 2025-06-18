@@ -75,7 +75,7 @@ I'm a passionate engineer specializing in **Machine Learning** and **Software De
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayan10&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Mayan10&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" />
 </div>
 
 ## 🎯 Areas of Expertise
