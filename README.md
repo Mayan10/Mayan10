@@ -69,7 +69,7 @@ current_work = {
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-![Python]([https://img.shields.io/badge/Python-FF6B9D?style=for-the-badge&logo=python&logoColor=000000&labelColor=000000](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white))
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-00D4FF?style=for-the-badge&logo=kotlin&logoColor=000000&labelColor=000000)
 ![C++](https://img.shields.io/badge/C++-FF6B9D?style=for-the-badge&logo=cplusplus&logoColor=000000&labelColor=000000)
 ![C](https://img.shields.io/badge/Java-00D4FF?style=for-the-badge&logo=openjdk&logoColor=000000&labelColor=000000)
