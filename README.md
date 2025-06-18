@@ -196,9 +196,9 @@ class MayanSkills:
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B9D?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000)](https://www.linkedin.com/in/mayan-sharma-76360422a)
-[![Email](https://img.shields.io/badge/Email-00D4FF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=About.me&logoColor=000000&labelColor=000000)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayan-sharma-76360422a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayan25sharma@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
 
 </div>
 
@@ -220,4 +220,4 @@ class MayanSkills:
   **✨ "Innovation happens at the intersection of software and intelligence" ✨**
   
   **🌸 ありがとうございました！| Thank you for visiting! 🌸**
-</di
+</div>
