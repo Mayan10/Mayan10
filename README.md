@@ -1,74 +1,61 @@
-# 👋 Hey, I'm Mayan Sharma  
+# 🌐 マヤン・シャルマ ｜ Mayan Sharma  
 
-**Machine Learning Engineer | Software Developer | AI Enthusiast**
-
-🚀 Building intelligent systems at the intersection of **AI, software, and research**.  
-I enjoy crafting applied ML models, scalable applications, and research-driven solutions that push boundaries.
+> 「技術と情熱で未来を切り拓く」  
+> *Engineering tomorrow through AI and software.*
 
 ---
 
-## 🌱 About Me
-- 🔭 Currently working on: **SAR Image Colorization, HQLSTM, and ML-powered applications**
-- 📖 Learning & exploring: **Deep Learning, Real-time Processing, Mobile Development**
-- 🎯 Goal: To **design impactful AI systems** that solve real-world challenges
-- 🌍 Open to collaborations in **ML research, applied AI, and innovative software**
+### 📢 最新情報 ｜ News & Updates  
+- [2025/03] Working on **SAR Image Colorization research**  
+- [2025/02] Released **Enhanced HQLSTM Model** ([repo](https://github.com/Mayan10/Enhanced-HQLSTM-Model))  
+- [2025/01] Experimenting with **real-time inference systems**  
 
 ---
 
-## 🛠️ Tech Stack
+### 🔧 技術カテゴリ ｜ Technology Categories  
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat)
-
-**Frameworks & Tools:**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
-
-**Development & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat)
+| 分野 (Field)        | 詳細 (Details) |
+|----------------------|----------------|
+| **プログラミング** | Python ｜ C++ ｜ Kotlin ｜ C |
+| **AI/ML**           | PyTorch ｜ TensorFlow ｜ Scikit-Learn |
+| **画像処理**        | OpenCV ｜ Computer Vision ｜ SAR |
+| **プラットフォーム**| Linux ｜ Android Studio ｜ Git ｜ VSCode |
+| **応用研究**        | Quantum-LSTM ｜ DSP ｜ Edge AI |
 
 ---
 
-## 🚀 Featured Projects  
+### 📂 プロジェクト一覧 ｜ Project Index  
 
 🔹 [**Enhanced HQLSTM Model**](https://github.com/Mayan10/Enhanced-HQLSTM-Model)  
-*Hybrid Quantum-LSTM for time-series prediction and optimization in real-world applications.*  
+　次世代時系列予測モデル ｜ *Hybrid Quantum-LSTM architecture for forecasting*  
 
 🔹 [**Real-time Gender Detection**](https://github.com/Mayan10/real-time-gender-detection)  
-*Computer vision system with OpenCV + TensorFlow for real-time detection.*  
+　映像処理 & Deep Learning ｜ *Live computer vision inference*  
 
 🔹 [**FIR Filter Automation**](https://github.com/Mayan10/FIR-Filter-Automation)  
-*Digital signal processing with automated design and verification pipelines.*  
+　信号処理自動化 ｜ *Automated DSP pipelines*  
 
 ---
 
-## 📊 GitHub Stats
+### 📊 データ & 統計 ｜ Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayan10&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayan10&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayan10&show_icons=true&theme=default&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayan10&layout=compact&theme=default&hide_border=false" height="160" />
 </div>
 
 ---
 
-## 🤝 Connect with Me
+### 📞 お問い合わせ ｜ Contact  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/mayan-sharma-76360422a)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:mayan25sharma@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white&style=flat)](https://your-portfolio.com)  
+- 📧 Email: [mayan25sharma@gmail.com](mailto:mayan25sharma@gmail.com)  
+- 💼 LinkedIn: [Mayan Sharma](https://www.linkedin.com/in/mayan-sharma-76360422a)  
+- 🌍 Portfolio: [your-portfolio.com](https://your-portfolio.com)  
 
 ---
 
 <div align="center">
 
-✨ *"Innovation happens where intelligence meets software."* ✨  
+広告スペース (Ad space) 📰 | *「静けさの中に力あり」*  
 
 </div>
